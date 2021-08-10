@@ -59,6 +59,12 @@ class MainWindow(wx.Frame):
 
 
 
+
+
+
+
+
+
 app = wx.App(False)
 frame = MainWindow(None, "ProExcel")
 app.MainLoop()
