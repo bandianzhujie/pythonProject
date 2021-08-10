@@ -57,6 +57,8 @@ class MainWindow(wx.Frame):
         dlg.Destroy()
 
 
+
+
 app = wx.App(False)
 frame = MainWindow(None, "ProExcel")
 app.MainLoop()
